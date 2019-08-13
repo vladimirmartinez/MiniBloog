@@ -1,0 +1,13 @@
+com\vladimir\dao\impl\PersonaDAOImpl.class
+com\vladimir\model\UsuarioRol.class
+com\vladimir\model\Publicacion.class
+com\vladimir\model\Usuario.class
+com\vladimir\service\impl\PersonaServiceImpl.class
+com\vladimir\model\Persona.class
+com\vladimir\controller\PersonaBean.class
+com\vladimir\model\Mencion.class
+com\vladimir\dao\IPersonaDAO.class
+com\vladimir\model\Rol.class
+com\vladimir\service\IPersonaService.class
+com\vladimir\model\Tag.class
+com\vladimir\model\PublicadorSeguidor.class
